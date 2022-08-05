@@ -1,3 +1,5 @@
+## Progress Updates and Tracker
+
 **2/5/2022** - Revised the fundamentals of NumPy, pandas, matplotlib, and python data types  
 **5/5/2022** - Reviewed Matplotlib in more detail  
 **9/5/2022** - Learnt and revised pandas from the python data analysis course  
