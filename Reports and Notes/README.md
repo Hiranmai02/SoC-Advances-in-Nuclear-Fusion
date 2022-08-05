@@ -16,3 +16,8 @@ Nuclear Fusion, Volume 62, Number 7
 Y. Kuramitsu1, T. Minami, T. Hihara, K. Sakai, T. Nishimoto, S. Isayama, Y.T. Liao et al.   
 Scientific Reports volume 12, Article number: 2346 (2022)   
 **DOI:**  [https://doi.org/10.1038/s41598-022-06055-4](https://doi.org/10.1038/s41598-022-06055-4)  
+
+## Other Resources  
+
+1. [Particle Physics - University of Geneva, Coursera](https://www.coursera.org/learn/particle-physics#syllabus)  
+2. [Fusion and Plasma Physics - MIT OCW](https://ocw.mit.edu/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/)   
