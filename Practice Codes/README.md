@@ -1,1 +1,1 @@
-These are the python codes that I wrote for practice
+These are the python codes that I wrote for practice.
