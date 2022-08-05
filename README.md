@@ -9,4 +9,4 @@ This project is to gain an understanding of the fundamentals of nuclear fusion a
 - Progress.md - Datewise work updates on the project  
 - Practice Codes - Python codes done for practice from various sources (References attached)
 - Graph Similarity - Code to determine whether two sets of points belong to the same distribution with a certain threshold
-- Reports and Notes - Summary reports made for the papers I read (References attached)
+- Reports and Notes - Summary reports made for the papers I read (References attached) and general notes taken from other resources provided by the mentor
