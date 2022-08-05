@@ -21,3 +21,7 @@ Scientific Reports volume 12, Article number: 2346 (2022)
 
 1. [Particle Physics - University of Geneva, Coursera](https://www.coursera.org/learn/particle-physics#syllabus)  
 2. [Fusion and Plasma Physics - MIT OCW](https://ocw.mit.edu/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/)   
+
+## Notes
+
+- The Fusion Survey was collectively made by the team to create a database of interesting papers for advanced reading
